@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8CB2266C213DBB6C00D26F36 /* RoundCornerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB2266B213DBB6C00D26F36 /* RoundCornerButton.swift */; };
+		8CB2266E213DBCEF00D26F36 /* RoundCornerImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB2266D213DBCEF00D26F36 /* RoundCornerImage.swift */; };
 		8CF58058213A012700074CC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF58057213A012700074CC7 /* AppDelegate.swift */; };
 		8CF5805A213A012700074CC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF58059213A012700074CC7 /* ViewController.swift */; };
 		8CF5805D213A012700074CC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CF5805B213A012700074CC7 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8CB2266B213DBB6C00D26F36 /* RoundCornerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundCornerButton.swift; sourceTree = "<group>"; };
+		8CB2266D213DBCEF00D26F36 /* RoundCornerImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundCornerImage.swift; sourceTree = "<group>"; };
 		8CF58054213A012700074CC7 /* DiggingDeeperAutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DiggingDeeperAutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF58057213A012700074CC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CF58059213A012700074CC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				8CF5805E213A012700074CC7 /* Assets.xcassets */,
 				8CF58060213A012700074CC7 /* LaunchScreen.storyboard */,
 				8CF58063213A012700074CC7 /* Info.plist */,
+				8CB2266B213DBB6C00D26F36 /* RoundCornerButton.swift */,
+				8CB2266D213DBCEF00D26F36 /* RoundCornerImage.swift */,
 			);
 			path = DiggingDeeperAutoLayout;
 			sourceTree = "<group>";
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CB2266C213DBB6C00D26F36 /* RoundCornerButton.swift in Sources */,
+				8CB2266E213DBCEF00D26F36 /* RoundCornerImage.swift in Sources */,
 				8CF5805A213A012700074CC7 /* ViewController.swift in Sources */,
 				8CF58058213A012700074CC7 /* AppDelegate.swift in Sources */,
 			);
